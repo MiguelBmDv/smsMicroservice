@@ -1,0 +1,7 @@
+twilio:
+  accountSid: AC913d99583a2d7d6ffaf00394940cafa3
+  authToken: cb6a1bc3eecb6a9bd9c30ceae9228d37
+  phoneNumber: +12695753844
+
+server:
+  port: 8092
